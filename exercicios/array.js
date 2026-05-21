@@ -47,3 +47,9 @@ console.log(coresprimarias);
 let frutascitricas = ["limão", "tangerina", "laranja"];
 frutascitricas.shift();
 console.log(frutascitricas);
+
+//Mostrando todos os elementos do array com for
+let animaisDomesticos = ["cachorro", "gato", "hamster"];
+for (let i = e; 1 < animaisDomesticos.length; i++) {
+console.log(animaisDomesticos[i]);
+}
